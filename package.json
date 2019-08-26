@@ -1,0 +1,20 @@
+{
+  "name": "FlightYoinker",
+  "version": "1.0.0",
+  "description": "Yoinks flight data based on predetermined sets of dates and flight routes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asylumrunner/FlightYoinker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Asylumrunner/FlightYoinker/issues"
+  },
+  "homepage": "https://github.com/Asylumrunner/FlightYoinker#readme"
+}
